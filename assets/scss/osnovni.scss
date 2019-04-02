@@ -1,0 +1,214 @@
+html {
+  min-height: 100%;
+}
+body{
+  min-height: 100vh;
+    position: relative;
+    margin: 0;
+  background-image: url("/pictures/ozadje.jpg");
+  max-height: 5000px;
+
+  img {
+    max-width: 100%;
+     max-height: 100%;
+    min-height: 85%;
+     height: auto;
+     object-fit: cover;
+
+  }
+
+
+}
+
+.container{
+
+
+border-radius: 1%;
+margin: 0 auto;
+background-color:rgba(77, 77, 77, 0.11);
+min-height: 800px;
+max-height: 6000px;
+
+
+
+}
+
+
+
+header.prvastran{
+
+
+width: 70%;
+
+margin: 0 auto;
+margin-top: 5%;
+height: 300px;
+
+}
+
+
+.img-responsive {
+    margin: 0 auto;
+
+}
+header img {
+
+  max-width: 100%;
+   max-height: 100%;
+ min-height: 85%;
+   height: auto;
+   border-radius: 3%;
+   border: 10px solid #0d0d0d;
+}
+
+header.headerobjave{
+  width: 70%;
+
+  margin: 0 auto;
+  margin-top: 5%;
+  min-height:  70px;
+  max-height: 150px;
+}
+header.cv{
+  width: 70%;
+
+  margin: 0 auto;
+  margin-top: 5%;
+  height: 10px;
+}
+
+nav{
+
+
+}
+section {
+
+
+  margin: 0 auto;
+  width: 70%;
+  min-height: 300px;
+  max-height: 5000px;
+  margin-bottom: 30px;
+
+
+}
+
+section.prvastran h1
+{
+  font-family:Times New Roman;
+  color:  #d9d9d9;
+
+  font-size: 60px;
+  font-weight: bold;
+   text-shadow: 2px 2px black;
+}
+section.prvastran p
+{
+
+  font-family: Times New Roman;
+  color:  #bfbfbf;
+
+  font-weight: bold;
+  font-size: 22px;
+  text-shadow: 1px 1px black;
+
+}
+
+
+section.objave h1
+{
+  font-family:Times New Roman;
+  color:    #d9d9d9;
+
+  font-size: 60px;
+  font-weight: bold;
+   text-shadow: 2px 2px black;
+}
+section.objave h2
+{
+  font-family:Times New Roman;
+  color:  #bfbfbf;
+
+  font-size: 25px;
+  font-weight: bold;
+   text-shadow: 2px 2px black;
+}
+
+section.objave p
+{
+
+  font-family: Times New Roman;
+  color:  #bfbfbf;
+
+  font-weight: bold;
+  font-size: 22px;
+  text-shadow: 1px 1px black;
+
+}
+
+
+.mytext{
+  word-break:break-all;
+}
+
+article{
+
+  background-color: yellow;
+}
+
+
+.naslovi p{
+  font-family: Times New Roman;
+  color:  #bfbfbf#b07536;
+
+  font-weight: bold;
+  font-size: 22px;
+  text-shadow: 3px 3px black;
+}
+
+
+footer{
+  clear: both;
+     position: relative;
+     height: 60px;
+     margin-top: -60px;
+    background-color:rgba(77, 77, 77, 0.2);
+   color: #bfbfbf;
+   line-height: 60px;
+ text-align: center;
+
+
+}
+.vrsta {
+
+  display:flex;
+  list-style:none;
+}
+.zarobljeno{
+
+  border: 1px solid #bfbfbf;
+
+}
+li:hover{
+  background-color: black;
+}
+h2 {
+  font-size: 10px;
+}
+a {
+  color: #808080;
+
+
+
+}
+a:hover{
+  color: #bfbfbf;
+}
+hr {
+  display: block;
+      height: 1px;
+      border: 0;
+      border-top: 1px solid grey;
+      margin: 1em 0;
+      padding: 0;
+}

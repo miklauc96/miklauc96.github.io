@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-04-02T13:27:38+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Your awesome title</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">1 Naloga</title><link href="http://localhost:4000/1-naloga" rel="alternate" type="text/html" title="1 Naloga" /><published>2019-03-31T15:53:51+02:00</published><updated>2019-03-31T15:53:51+02:00</updated><id>http://localhost:4000/Linki</id><content type="html" xml:base="http://localhost:4000/1-naloga">&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt; V prvi nalogi sem najprej raziskal kaj so to static content generatorji, nato pa sem si izbral enega z katerim sem vzpostavil spletno strani
+Uporabil sem Jekyll in sez tem naučil njegove osnovne uporabe.  Na strani sem prikazal uporabo besedil ločenih v svojih lastnih html datotekah.
+Za izgled strani sem izbral že v naprej narejeno Temo, malo sem dodelal le HTML in CSS.
+&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;img src=&quot;/pictures/naloga11.jpg&quot; alt=&quot;Back end&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;Ko sem imel stran izdelano sem se prijavil na GITHUB in nanj naložil svojo spletno stran, s pomočjo ukazov v konzoli&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/pictures/naloga1.jpg&quot; alt=&quot;Back end&quot; /&gt;&lt;/p&gt;</content><author><name>Drago Miklauc</name></author><summary type="html"></summary></entry><entry><title type="html">2 Naloga</title><link href="http://localhost:4000/2-naloga" rel="alternate" type="text/html" title="2 Naloga" /><published>2019-03-31T15:53:51+02:00</published><updated>2019-03-31T15:53:51+02:00</updated><id>http://localhost:4000/Druga-naloga</id><content type="html" xml:base="http://localhost:4000/2-naloga">&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt; V drugi nalogi sem znova ustvaril stran s pomočjo Jekylla, toda tokrat sem namesto že v naprej narejene teme ustvaril lastne layoute.
+Poleg Layoutov pa sem naredil tudi Include. ki sem jih vstavil v vsako stran.
+Za oblikovanje sem uporabil sem HTML, BOOTSTRAP Ter za razliko od prve naloge sem uporabljal SCSS. Ko sem imel stran narejeno sem raziskal in na svojo stran tudi vstavil brskanje med objavami. Stran sem kasneje znova naložil na GITHUB
+&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;img src=&quot;/pictures/naloga2.jpg&quot; alt=&quot;Back end&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/pictures/naloga22.jpg&quot; alt=&quot;Back end&quot; /&gt;&lt;/p&gt;</content><author><name>Drago Miklauc</name></author><summary type="html"></summary></entry><entry><title type="html">Pomembni linki</title><link href="http://localhost:4000/zivenjepis" rel="alternate" type="text/html" title="Pomembni linki" /><published>2019-03-03T14:53:51+01:00</published><updated>2019-03-03T14:53:51+01:00</updated><id>http://localhost:4000/Prva-naloga</id><content type="html" xml:base="http://localhost:4000/zivenjepis">&lt;p&gt;JEKYLL&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://jekyllrb.com/tutorials/video-walkthroughs/&quot;&gt;Jekyll tutoriali, ter vse druge informacije&lt;/a&gt;&lt;/p&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;MARKDOWN&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet&quot;&gt;Markdown vse informacije&lt;/a&gt; &lt;br /&gt;
+&lt;a href=&quot;https://www.markdowntutorial.com&quot;&gt;Markdown tutorial&lt;/a&gt;&lt;/p&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;GITHUB&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/&quot;&gt;Github spletna stran&lt;/a&gt; &lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://pages.github.com/?fbclid=IwAR3IyPOS4Szk9qoYzotIS-fEDfM5QDQdebLL-6Am79RDH5H8DaqI8KKDYtQ&quot;&gt;Nalaganje strani na github&lt;/a&gt; &lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=8hrJ4oN1u_8&quot;&gt;Nalaganje strani na github (VIDEO)&lt;/a&gt;&lt;/p&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;GIT&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html&quot;&gt;Git osnovni ukazi&lt;/a&gt; &lt;br /&gt;&lt;/p&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;HTML in CSS&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html&quot;&gt;Html tutoriali in ukazi&lt;/a&gt; &lt;br /&gt;
+&lt;a href=&quot;https://www.w3schools.com/css/default.asp&quot;&gt;Css tutoriali in ukazi&lt;/a&gt; &lt;br /&gt;&lt;/p&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;SASS in SCSS&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://sass-lang.com/guide&quot;&gt;Scss ukazi in tutoriali&lt;/a&gt; &lt;br /&gt;&lt;/p&gt;</content><author><name>Drago Miklauc</name></author><summary type="html">JEKYLL Jekyll tutoriali, ter vse druge informacije MARKDOWN Markdown vse informacije Markdown tutorial GITHUB Github spletna stran</summary></entry></feed>
