@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Objave</title>
+{%include head.html%}
+</head>
+<body>
+<div class="container">
+
+{%include nav.html%}
+
+  <header class="headerobjave " >
+
+
+    <div class="container-fluid navbar-inverse zarobljeno">
+
+
+
+      <ul class="nav navbar-nav navbar-center ">
+        {%for post in site.posts%}
+
+        <li>
+           <a style="{%if page.url == post.url %} color:#e6e6e6; {%endif%}" href=" {{ post.url }}" > {{post.title}}</a>
+        </li>
+        {%endfor%}
+    </ul>
+    </div>
+
+
+
+
+</header>
+  <section class="mytext objave ">
+
+    <h1> {{page.title}}</h1>
+    <h2> {{page.author}}</h2>
+    <br>
+    <hr>
+
+    {{ content }}
+
+  </section>
+
+<article>
+
+</article>
+
+
+
+</div>
+<br><br>
+{%include footer.html%}
+</body>
+</html>

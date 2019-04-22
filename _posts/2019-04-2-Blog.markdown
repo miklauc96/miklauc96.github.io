@@ -1,0 +1,25 @@
+---
+layout: objave
+title:  3 Naloga
+date:   2019-04-21 15:21:51 +0200
+categories: objave1
+author: Drago Miklauc
+permalink: "3-naloga"
+
+
+---
+<br>
+
+<p> V tretji nalogi sem (pre)oblikoval izgled bloga spletne strani, pri čemer sem uporablajal SCSS. spremenil sem predvsem glavne barve. 
+Poleg barv pa sem se lotil tudi spremembe gumbov, ter slike.
+</p>
+
+<br>
+<img src="/pictures/naloga3.jpg" alt="blog">
+
+<br>
+<p>Ko sem vse preuredil sem vse pushal na gitlab, ter requestal merge</p>
+
+<br>
+
+<img src="/pictures/naloga33.jpg" alt="push">

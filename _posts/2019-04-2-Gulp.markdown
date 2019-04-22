@@ -1,0 +1,24 @@
+---
+layout: objave
+title:  4 Naloga
+date:   2019-04-22 15:21:51 +0200
+categories: objave1
+author: Drago Miklauc
+permalink: "4-naloga"
+
+
+---
+<br>
+
+<p> V četrti nalogi sem se naučil uporabljati GULP. Pomagal sem urediti in testirati GULP na blogu spletne strani. Najprej sem opravil kratek tutorial in se naučil kaj sploh GULP je in kako se upravlja z njim.
+</p>
+
+<br>
+<img src="/pictures/naloga4.jpg" alt="blog">
+
+<br>
+<p>Nato sem svoje znanje prenesel na svoj prvi lastnoročno napisan GULPFILE za ta blog namenjen učenju. Uporabil sem novo verzijo GULP 4.0 ki vsebuje določene spremembe glede na prejšnje verzije.</p>
+
+<br>
+
+<img src="/pictures/naloga44.jpg" alt="push">

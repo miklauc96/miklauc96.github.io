@@ -1,0 +1,26 @@
+---
+layout: objave
+title:  1 Naloga
+date:   2019-03-27 15:53:51 +0200
+categories: objave1
+author: Drago Miklauc
+permalink: "1-naloga"
+
+
+---
+<br>
+
+<p> V prvi nalogi sem najprej raziskal kaj so to static content generatorji, nato pa sem si izbral enega z katerim sem vzpostavil spletno strani
+Uporabil sem Jekyll in sez tem naučil njegove osnovne uporabe.  Na strani sem prikazal uporabo besedil ločenih v svojih lastnih html datotekah.
+Za izgled strani sem izbral že v naprej narejeno Temo, malo sem dodelal le HTML in CSS.
+</p>
+
+<br>
+<img src="/pictures/naloga11.jpg" alt="Back end">
+
+<br>
+<p>Ko sem imel stran izdelano sem se prijavil na GITHUB in nanj naložil svojo spletno stran, s pomočjo ukazov v konzoli</p>
+
+<br>
+
+<img src="/pictures/naloga1.jpg" alt="Back end">

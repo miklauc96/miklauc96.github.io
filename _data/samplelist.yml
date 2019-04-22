@@ -1,0 +1,11 @@
+docs_list_title: ACME Documentation
+docs:
+
+- title: Domov
+  url: index.html
+
+- title: Dnevnik
+  url: zapiski.html
+
+- title: Življenjepis
+  url: zivljenjepis.html

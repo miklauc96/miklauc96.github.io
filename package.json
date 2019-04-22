@@ -1,0 +1,31 @@
+{
+  "name": "miklauc96.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miklauc96/miklauc96.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/miklauc96/miklauc96.github.io/issues"
+  },
+  "homepage": "https://github.com/miklauc96/miklauc96.github.io#readme",
+  "devDependencies": {
+    "gulp-concat": "^2.6.1",
+    "gulp-imagemin": "^5.0.3",
+    "gulp-install": "^1.1.0",
+    "gulp-minify-css": "^1.2.4",
+    "gulp-sass": "^4.0.2",
+    "gulp-uglify": "^3.0.2",
+    "gulp-watch": "^5.0.1"
+  },
+  "dependencies": {
+    "gulp": "^4.0.1"
+  }
+}
